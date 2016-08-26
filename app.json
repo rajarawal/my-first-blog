@@ -1,0 +1,17 @@
+{
+  "name": "my-first-blog",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/rajarawal/my-first-blog.git"
+    }
+  ]
+}
